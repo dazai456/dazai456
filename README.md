@@ -5,8 +5,6 @@ I am a certified Data Analyst with a strong foundation in Python, data manipulat
 
 🌱 I’m currently learning **Ml, Cloud Solutions**
 
-📫 How to reach me **ibrahim**
-
 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-nader-3a65351b6/](https://www.linkedin.com/in/ibrahim-nader-3a65351b6/)
 
 <h3 align="left">Connect with me:</h3>
