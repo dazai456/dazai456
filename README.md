@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Nader</h1>
 <h3 align="center">A passionate Data Analyst from Egypt</h3>
 
+I am a certified Data Analyst with a strong foundation in Python, data manipulation, and statistical analysis. I have hands-on experience in working with tools such as Pandas, Power BI, MySQL, Power Query, and Power Pivot. He has completed projects analyzing coffee shop sales and demographic data, showcasing his ability to extract insights from complex datasets. Ibrahim holds a diploma in Computer and Management Information Systems and is proficient in both English and Arabic. Passionate about data-driven decision-making, he continues to enhance his skills in data analysis and visualization. opportunity to learn more to achieve my goals.
 🌱 I’m currently learning **Ml, Cloud Solutions**
 
 📫 How to reach me **ibrahim**
